@@ -11,7 +11,7 @@
 
 <h2> About Me</h2>
 
-- 🤖 I'm a member of [IvLabs](https://github.com/IvLabs), An AI and Robotics Lab in [VNIT Nagpur](https://vnit.ac.in).
+- 🤖 I'm a member of [IvLabs](https://github.com/IvLabs), a Robotics and AI community of [VNIT Nagpur](https://vnit.ac.in).
 
 - 🔭 I’m currently working on a fully autonomous COVID bot to help frontline COVID warriors minimise physical contact with COVID patients. 
 
