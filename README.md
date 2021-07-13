@@ -13,7 +13,7 @@
 
 - 🤖 I'm a member of [IvLabs](https://github.com/IvLabs), a Robotics and AI community of [VNIT Nagpur](https://vnit.ac.in).
 
-- 🔭 I’m currently working on a fully autonomous COVID bot to help frontline COVID warriors minimise physical contact with COVID patients. 
+- 🔭 I’m have worked on a fully autonomous COVID bot. Check it out [here](https://github.com/IvLabs/Sahayak-v3) 
 
 - 🌱 I’m in my Junior year at [VNIT Nagpur](https://vnit.ac.in) pursuing my B.Tech degree in Electronics and Communication Engineering.
 
