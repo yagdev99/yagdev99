@@ -3,8 +3,6 @@
 <h1> Hi There!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yagdev99.yagdev99)
-
 </p>
 <div size='20px'> Hi! My name is Yagnesh. Thank You for taking the time to view my GitHub Profile
 </div>
