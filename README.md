@@ -9,15 +9,15 @@
 
 <h2> About Me</h2>
 
-- 🤖 I'm a member of [IvLabs](https://github.com/IvLabs), a Robotics and AI community of [VNIT Nagpur](https://vnit.ac.in).
+* 🤖 I'm a member of [IvLabs](https://github.com/IvLabs), a Robotics and AI community of [VNIT Nagpur](https://vnit.ac.in).
 
-- 🔭 I have worked on a fully autonomous COVID bot. Check it out [here](https://github.com/IvLabs/Sahayak-v3) 
+* 🔭 I have worked on a fully autonomous COVID bot. Check it out [here](https://github.com/IvLabs/Sahayak-v3) 
 
-- 🌱 I’m in my Junior year at [VNIT Nagpur](https://vnit.ac.in) pursuing my B.Tech degree in Electronics and Communication Engineering.
+* 🏫 I’m in my Junior year at [VNIT Nagpur](https://vnit.ac.in) pursuing my B.Tech degree in Electronics and Communication Engineering.
 
-
-
-
+* 🌱 My research interest in autonomous navigation lies in
+   * SLAM
+   * Path Planning 
 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
@@ -31,9 +31,7 @@
 
    
 <h2> Connect with me</h2>
-<a href = https://www.linkedin.com/in/yagnesh-devada-49b047196/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.github.com/yagdev99'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-<a href = 'mailto:yagneshdevada1@gmail.com'> <img width = '32px' align= 'center' src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png"/></a> 
+<a href = https://www.linkedin.com/in/yagnesh-devada-49b047196/'> <img width = '90px' align= 'center' src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href = 'mailto:yagneshdevada1@gmail.com'> <img width = '110px' align= 'center' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
                                                           
                                                                                 
                                                                          
